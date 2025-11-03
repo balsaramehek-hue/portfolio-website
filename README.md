@@ -11,9 +11,9 @@ It showcases my profile, skills, academic projects, and contact details.
 - Mobile navigation (hamburger menu)
 
  🛠️ Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 
-demo link: https://balsaramehek-hue.github.io/portfolio-website/
+
